@@ -27,3 +27,10 @@ I also want to call special attention to these extra metrics AWS handed to me:
 * Billed duration = 4338 ms
 * Max memory used = 159 MB
 * Memory allocated = 512 MB
+
+Here are the stats when I decreased the memory allocation to 256 MB:
+* Init duration = 2407.93 ms
+* Duration = 8709.86 ms
+* Billed duration = 8710 ms
+* Max memory used = 163 MB
+* Memory allocated = 256 MB
